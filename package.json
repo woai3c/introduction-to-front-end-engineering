@@ -1,0 +1,24 @@
+{
+  "name": "introduction-to-front-end-engineering",
+  "version": "1.0.0",
+  "description": "《带你入门前端工程》",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woai3c/introduction-to-front-end-engineering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woai3c/introduction-to-front-end-engineering/issues"
+  },
+  "homepage": "https://github.com/woai3c/introduction-to-front-end-engineering#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
