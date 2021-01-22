@@ -10,7 +10,8 @@
 可能有人会问，什么时候开始做工程化？我认为在需求评审阶段就可以做工程化了，根据需求选用适当的技术栈（技术选型），然后制定相关规范...
 
 ## 在线访问
-* [访问入口一](https://woai3c.github.io/introduction-to-front-end-engineering/)
+* [访问入口一](https://woai3c.gitee.io/introduction-to-front-end-engineering)
+* [访问入口二](https://woai3c.github.io/introduction-to-front-end-engineering/)
 
 ## 目录
 1. 技术选型：如何进行技术选型？
