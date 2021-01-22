@@ -1,4 +1,3 @@
-## 简介
 前端工程化，其实是软件工程在前端方面的应用。什么是软件工程？来看一下百度百科的定义：
 >软件工程是一门研究用工程化方法构建和维护有效的、实用的和高质量的软件的学科
 
@@ -57,5 +56,5 @@
 MIT
 
 ## 赞助
-![](https://github.com/woai3c/nand2tetris/blob/master/img/wx.jpg)
-![](https://github.com/woai3c/nand2tetris/blob/master/img/zfb.jpg)
+![](./img/wx.jpg)
+![](./img/zfb.jpg)
