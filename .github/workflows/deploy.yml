@@ -22,6 +22,6 @@ jobs:
         with:  # 自定义环境变量
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: master
-          FOLDER: docs\.vuepress\dist
+          FOLDER: docs/.vuepress/dist
           REPOSITORY_NAME: woai3c/woai3c.github.io # 这是我的 github page 地址
           TARGET_FOLDER: introduction-to-front-end-engineering # 打包的文件将放到静态服务器 introduction-to-front-end-engineering 目录下
