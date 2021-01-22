@@ -1,8 +1,8 @@
 name: Build and Deploy
-on: # 监听 master 分支上的 push 事件
+on: # 监听 main 分支上的 push 事件
   push:
     branches:
-      - master
+      - main
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest # 构建环境使用 ubuntu
