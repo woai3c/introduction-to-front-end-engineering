@@ -22,7 +22,7 @@ module.exports = {
         ],
         displayAllHeaders: true,
         repo: 'https://github.com/woai3c/introduction-to-front-end-engineering',
-        repoLabel: 'Github',
+        repoLabel: '给作者的 Github 点个 star 吧！',
         smoothScroll: true,
     }
 }
