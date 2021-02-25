@@ -11,9 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/woai3c/introduction-to-front-end-engineering.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "前端工程"
+  ],
+  "author": "谭光志",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/woai3c/introduction-to-front-end-engineering/issues"
   },
