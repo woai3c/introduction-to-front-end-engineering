@@ -52,6 +52,13 @@
 * 想学习工程化的前端
 * 具备基础的 HTML、CSS、JavaScript 知识
 
+## 扩展
+由于这本小书主要就是针对一个技术点讲解它是什么？怎么做？对于更细的点不会有深入的讲解。为了弥补这一点，我写了一些其他文章来对此做为补充：
+* [手把手教你写一个脚手架](https://github.com/woai3c/Front-end-articles/issues/22)
+* [深入了解 webpack 模块加载原理](https://github.com/woai3c/Front-end-articles/issues/7)
+* [实现一个 webpack loader 和 webpack plugin](https://github.com/woai3c/Front-end-articles/issues/6)
+* [从 rollup 初版源码学习打包原理](https://github.com/woai3c/Front-end-articles/issues/5)
+
 ## License
 MIT
 
