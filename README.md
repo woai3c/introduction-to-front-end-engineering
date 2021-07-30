@@ -12,7 +12,7 @@
 
 ## 在线访问
 * [国内访问（Gitee）](https://woai3c.gitee.io/introduction-to-front-end-engineering)
-* [国外访问（Gighub）](https://woai3c.github.io/introduction-to-front-end-engineering/)
+* [国外访问（Github）](https://woai3c.github.io/introduction-to-front-end-engineering/)
 
 ## 目录
 1. 技术选型：如何进行技术选型？
