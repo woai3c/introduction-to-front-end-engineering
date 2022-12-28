@@ -19,7 +19,8 @@ export default {
                     max-width: 180px;
                     position: fixed;
                     right: 10px;
-                    top: 46px;
+                    bottom: 10px;
+                    text-align: center
                 }
             `
 
