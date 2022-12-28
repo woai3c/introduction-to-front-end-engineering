@@ -24,6 +24,8 @@ export default {
             `
 
             const style = document.createElement('style')
+            style.type = 'text/css'
+            style.id = 'ad-style'
             style.textContent = styleText
             document.head.appendChild(style)
             
