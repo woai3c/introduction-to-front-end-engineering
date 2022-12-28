@@ -1,5 +1,5 @@
 <template>
-    <div class="wwads-cn wwads-vertical wwads-sticky" data-id="204" style="max-width:180px"></div>
+    <div id="ad-div" class="wwads-cn wwads-vertical wwads-sticky" data-id="204" style="max-width:180px"></div>
 </template>
 
 <script>
@@ -12,6 +12,36 @@ export default {
             script.async = true
             script.src = 'https://cdn.wwads.cn/js/makemoney.js'
             document.head.appendChild(script)
+
+            const styleText = `
+                #ad-div {
+                    z-index: 1000;
+                    max-width: 180px;
+                    position: fixed;
+                    right: 10px;
+                    top: 46px;
+                }
+            `
+
+            const style = document.createElement('style')
+            style.textContent = styleText
+            document.head.appendChild(style)
+            
+            const div = document.querySelector('#ad-div')
+
+            let timer
+            window.onresize = () => {
+                clearTimeout(timer)
+                timer = setTimeout(() => {
+                    if (window.innerWidth >= 1470) {
+                        div.style.display = 'block'
+                        console.log('show')
+                    } else {
+                        div.style.display = 'none'
+                        console.log('hidden')
+                    }
+                }, 500);
+            }
         }
     }
 }
