@@ -16,7 +16,7 @@ export default {
             const styleText = `
                 #ad-div {
                     z-index: 1000;
-                    max-width: 180px;
+                    max-width: 154px;
                     position: fixed;
                     right: 10px;
                     bottom: 10px;
