@@ -66,6 +66,7 @@ npm run dev
 ## 扩展
 由于这本小书主要就是针对一个技术点讲解它是什么？怎么做？对于更细的点不会有深入的讲解。为了弥补这一点，我写了一些其他文章来对此做为补充：
 * [前端规范](https://woai3c.github.io/front-end-specification/)
+* [前端监控 SDK 的一些技术要点原理分析](https://github.com/woai3c/Front-end-articles/issues/26)
 * [手把手教你写一个脚手架](https://github.com/woai3c/Front-end-articles/issues/22)
 * [深入了解 webpack 模块加载原理](https://github.com/woai3c/Front-end-articles/issues/7)
 * [实现一个 webpack loader 和 webpack plugin](https://github.com/woai3c/Front-end-articles/issues/6)
