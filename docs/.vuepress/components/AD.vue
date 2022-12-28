@@ -3,12 +3,16 @@
 </template>
 
 <script>
-const adScript = document.querySelector('#ad-script')
-if (!adScript) {
-    const script = document.createElement('script')
-    script.id = 'ad-script'
-    script.async = true
-    script.src = 'https://cdn.wwads.cn/js/makemoney.js'
-    document.head.appendChild(script)
+export default {
+    mounted() {
+        const adScript = document.querySelector('#ad-script')
+        if (!adScript) {
+            const script = document.createElement('script')
+            script.id = 'ad-script'
+            script.async = true
+            script.src = 'https://cdn.wwads.cn/js/makemoney.js'
+            document.head.appendChild(script)
+        }
+    }
 }
 </script>
