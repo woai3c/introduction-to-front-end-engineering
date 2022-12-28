@@ -1,5 +1,5 @@
 <template>
-    <div id="ad-div" class="wwads-cn wwads-vertical wwads-sticky" data-id="204" style="max-width:180px"></div>
+    <div id="ad-div" class="wwads-cn wwads-vertical wwads-sticky" data-id="204" style="max-width:154px"></div>
 </template>
 
 <script>
