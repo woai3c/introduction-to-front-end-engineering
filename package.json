@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/woai3c/introduction-to-front-end-engineering#readme",
   "devDependencies": {
-    "vuepress": "^1.8.0"
+    "vuepress": "^1.9.9"
   }
 }
